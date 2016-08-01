@@ -8,7 +8,7 @@
 		"url" : "https://github.com/webpack/mocha-loader"
 	},
 	"peerDependencies": {
-		"mocha": "^2.0.1"
+		"mocha": ">=2.0.1"
 	},
 	"dependencies": {
 		"script-loader": "~0.6.0",
